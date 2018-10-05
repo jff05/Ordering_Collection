@@ -1,0 +1,44 @@
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\JFF\source\repos\JFF_test\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\JFF\source\repos\JFF_test - Copie\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\JFF\source\repos\JFF_test_2\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\JFF\source\repos\GitHub\Ordering_Collection\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
